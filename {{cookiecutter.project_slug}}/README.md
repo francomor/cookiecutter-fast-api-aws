@@ -1,5 +1,5 @@
 
-# Welcome to {{cookiecutter.sd_team.upper()}} {{cookiecutter.project_name}}!
+# Welcome to {{cookiecutter.project_name}}!
 
 This project contains source code and supporting files for a serverless application
 that you can deploy with the SAM CLI. This project is set up like Python
